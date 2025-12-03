@@ -6,26 +6,35 @@ This repository contains the full manuscript, individual chapter files, back-cov
 ---
 
 ## 📖 Table of Contents
-*(Links will be added after README is saved and confirmed)*
 
-- Preface  
-- Introduction  
-- Chapter 1 — The Covenant Pattern of Scripture  
-- Chapter 2 — Two Mothers, Two Fathers, Two Covenants  
-- Chapter 3 — The Forgotten Timeline  
-- Chapter 4 — Overview / Introduction to the Seven Churches  
-- Chapter 5 — Ephesus / The Daughter of Babylon  
-- Chapter 6 — Smyrna / The Daughter of the Chaldeans  
-- Chapter 7 — Pergamos / The Daughter of Edom  
-- Chapter 8 — Thyatira / The Daughter of Zidon  
-- Chapter 9 — Sardis / The Daughters of Moab  
-- Chapter 10 — Philadelphia / The Daughter of Egypt  
-- Chapter 11 — Laodicea / The Daughter of Tyre  
-- Chapter 12 — Word Progression (The Light Theme)  
-- Chapter 13 — The Seven Seals  
-- Chapter 14 — The Rapture  
-- Chapter 15 — The 144,000  
-- Chapter 16 — The Revelation Riddle  
+### Front Matter
+- [Preface](chapters/00_Preface.md)
+- [Introduction](chapters/00_Introduction.md)
+
+### Core Chapters
+- [Chapter 1 — The Covenant Pattern of Scripture](chapters/01_Covenant_Pattern_of_Scripture.md)
+- [Chapter 2 — Two Mothers, Two Fathers, Two Covenants](chapters/02_Two_Mothers_Two_Fathers_Two_Covenants.md)
+- [Chapter 3 — The Forgotten Timeline](chapters/03_The_Forgotten_Timeline.md)
+- [Chapter 4 — Overview / Introduction to the Seven Churches](chapters/04_Overview_Seven_Churches.md)
+- [Chapter 5 — Ephesus / The Daughter of Babylon](chapters/05_Ephesus_Daughter_of_Babylon.md)
+- [Chapter 6 — Smyrna / The Daughter of the Chaldeans](chapters/06_Smyrna_Daughter_of_Chaldeans.md)
+- [Chapter 7 — Pergamos / The Daughter of Edom](chapters/07_Pergamos_Daughter_of_Edom.md)
+- [Chapter 8 — Thyatira / The Daughter of Zidon](chapters/08_Thyatira_Daughter_of_Zidon.md)
+- [Chapter 9 — Sardis / The Daughters of Moab](chapters/09_Sardis_Daughters_of_Moab.md)
+- [Chapter 10 — Philadelphia / The Daughter of Egypt](chapters/10_Philadelphia_Daughter_of_Egypt.md)
+- [Chapter 11 — Laodicea / The Daughter of Tyre](chapters/11_Laodicea_Daughter_of_Tyre.md)
+- [Chapter 12 — Word Progression (The Light Theme)](chapters/12_Word_Progression_Light_Theme.md)
+- [Chapter 13 — The Seven Seals](chapters/13_The_Seven_Seals.md)
+- [Chapter 14 — The Rapture](chapters/14_The_Rapture.md)
+- [Chapter 15 — The 144,000](chapters/15_The_144000.md)
+- [Chapter 16 — The Revelation Riddle](chapters/16_The_Revelation_Riddle.md)
+
+### Additional Materials
+- [Back Cover Teaser](25-Back_Cover_Teaser.md)
+- [Full Manuscript (TXT)](manuscript/Manuscript\ As\ TXT.txt)
+- [Full Manuscript (PDF)](manuscript/Manuscript\ As\ PDF.pdf)
+- [Full Manuscript (DOCX)](manuscript/Manuscript.docx)
+- [License](manuscript/License.txt)
 
 ---
 
