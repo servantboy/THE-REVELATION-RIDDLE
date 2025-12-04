@@ -9,7 +9,7 @@ This repository contains the full manuscript, individual chapter files, back-cov
 
 ### Front Matter
 - [Preface](chapters/000_Preface.md)
-- [Introduction](chapters/00_Introduction.md)
+- [Introduction](chapters/001_Introduction.md)
 
 ### Core Chapters
 - [Chapter 1 — The Covenant Pattern of Scripture](chapters/01_Covenant_Pattern_of_Scripture.md)
