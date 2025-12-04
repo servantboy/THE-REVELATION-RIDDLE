@@ -8,7 +8,7 @@ This repository contains the full manuscript, individual chapter files, back-cov
 ## 📖 Table of Contents
 
 ### Front Matter
-- [Preface](chapters/00_Preface.md)
+- [Preface](chapters/000_Preface.md)
 - [Introduction](chapters/00_Introduction.md)
 
 ### Core Chapters
