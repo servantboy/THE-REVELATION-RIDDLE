@@ -24,7 +24,7 @@ This repository contains the full manuscript, individual chapter files, back-cov
 - [Chapter 10 — Philadelphia / The Daughter of Egypt](chapters/PDF_Chapters/Chapter_10_PDF.pdf)
 - [Chapter 11 — Laodicea / The Daughter of Tyre](chapters/PDF_Chapters/Chapter_11_PDF.pdf)
 - [Chapter 12 — Word Progression (The Light Theme)](chapters/PDF_Chapters/Chapter_12_PDF.pdf)
-- [Chapter 13 — The Seven Seals](chapters/014_The_Seven_Seals.md)
+- [Chapter 13 — The Seven Seals](chapters/PDF_Chapters/Chapter_13_PDF.pdf)
 - [Chapter 14 — The Rapture](chapters/015_The_Rapture.md)
 - [Chapter 15 — The 144,000](chapters/016_The_144000.md)
 - [Chapter 16 — The Revelation Riddle](chapters/017_The_Revelation_Riddle.md)
