@@ -30,8 +30,7 @@ This repository contains the full manuscript, individual chapter files, back-cov
 - [Chapter 16 — The Revelation Riddle](chapters/017_The_Revelation_Riddle.md)
 
 ### Additional Materials
-- [Back Cover Teaser](chapters/018-Back_Cover_Teaser.md) 
-- [Full Manuscript (TXT)](manuscript/Manuscript%20As%20TXT.txt) 
+- [Back Cover Teaser](chapters/018-Back_Cover_Teaser.md)  
 - [Full Manuscript (PDF)](manuscript/Manuscript%20As%20PDF.pdf) 
 - [Full Manuscript (DOCX)](manuscript/Manuscript.docx)
 - [License](manuscript/License.txt)
