@@ -31,7 +31,7 @@ This repository contains the full manuscript, individual chapter files, back-cov
 
 ### Additional Materials As PDF Files
 - [Back Cover Teaser](chapters/PDF_Chapters/Back_Cover_Teaser_PDF.pdf)  
-- [Full Manuscript (PDF)](manuscript/Manuscript%20As%20PDF.pdf) 
+- [Full Manuscript (PDF)](chapters/PDF_Chapters/Manuscript_12-3-25_PDF.pdf) 
 - [Full Manuscript (DOCX)](manuscript/Manuscript.docx)
 - [License](manuscript/License.txt)
 
