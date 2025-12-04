@@ -12,7 +12,7 @@ This repository contains the full manuscript, individual chapter files, back-cov
 - [Introduction](chapters/PDF_Chapters/Introduction_PDF.pdf)
 
 ### Core Chapters As PDF Files
-- [Chapter 1 — The Covenant Pattern of Scripture](chapters/002_Covenant_Pattern_of_Scripture.md)
+- [Chapter 1 — The Covenant Pattern of Scripture](chapters/PDF_Chapters/Chapter_1_PDF.pdf)
 - [Chapter 2 — Two Mothers, Two Fathers, Two Covenants](chapters/003_Two_Mothers_Two_Fathers_Two_Covenants.md)
 - [Chapter 3 — The Forgotten Timeline](chapters/004_The_Forgotten_Timeline.md)
 - [Chapter 4 — Overview / Introduction to the Seven Churches](chapters/005_Overview_Seven_Churches.md)
