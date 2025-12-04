@@ -26,7 +26,7 @@ This repository contains the full manuscript, individual chapter files, back-cov
 - [Chapter 12 — Word Progression (The Light Theme)](chapters/PDF_Chapters/Chapter_12_PDF.pdf)
 - [Chapter 13 — The Seven Seals](chapters/PDF_Chapters/Chapter_13_PDF.pdf)
 - [Chapter 14 — The Rapture](chapters/PDF_Chapters/Chapter_14_PDF.pdf)
-- [Chapter 15 — The 144,000](chapters/016_The_144000.md)
+- [Chapter 15 — The 144,000](chapters/PDF_Chapters/Chapter_15_PDF.pdf)
 - [Chapter 16 — The Revelation Riddle](chapters/017_The_Revelation_Riddle.md)
 
 ### Additional Materials As PDF Files
