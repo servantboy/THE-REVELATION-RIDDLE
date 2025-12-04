@@ -59,7 +59,7 @@ This repository contains the full manuscript, individual chapter files, back-cov
 
 ### Additional Materials
 - [Back Cover Teaser](chapters/018-Back_Cover_Teaser.md)  
-- [Full Manuscript (TXT)](manuscript/Manuscript As TXT.txt) 
+- [Full Manuscript (TXT)](manuscript/Manuscript_As_TXT.txt) 
 - [Full Manuscript (DOCX)](manuscript/Manuscript.docx)
 - [License](manuscript/License.txt)
 
