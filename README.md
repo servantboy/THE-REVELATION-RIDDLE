@@ -7,11 +7,11 @@ This repository contains the full manuscript, individual chapter files, back-cov
 
 ## 📖 Table of Contents
 
-### Front Matter
+### Front Matter As TXT Files
 - [Preface](chapters/000_Preface.md)
 - [Introduction](chapters/001_Introduction.md)
 
-### Core Chapters
+### Core Chapters As TXT Files
 - [Chapter 1 — The Covenant Pattern of Scripture](chapters/002_Covenant_Pattern_of_Scripture.md)
 - [Chapter 2 — Two Mothers, Two Fathers, Two Covenants](chapters/003_Two_Mothers_Two_Fathers_Two_Covenants.md)
 - [Chapter 3 — The Forgotten Timeline](chapters/004_The_Forgotten_Timeline.md)
@@ -29,7 +29,7 @@ This repository contains the full manuscript, individual chapter files, back-cov
 - [Chapter 15 — The 144,000](chapters/016_The_144000.md)
 - [Chapter 16 — The Revelation Riddle](chapters/017_The_Revelation_Riddle.md)
 
-### Additional Materials
+### Additional Materials As TXT Files
 - [Back Cover Teaser](chapters/018-Back_Cover_Teaser.md)  
 - [Full Manuscript (PDF)](manuscript/Manuscript%20As%20PDF.pdf) 
 - [Full Manuscript (DOCX)](manuscript/Manuscript.docx)
