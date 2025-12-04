@@ -19,7 +19,7 @@ This repository contains the full manuscript, individual chapter files, back-cov
 - [Chapter 5 — Ephesus / The Daughter of Babylon](chapters/PDF_Chapters/Chapter_5_PDF.pdf)
 - [Chapter 6 — Smyrna / The Daughter of the Chaldeans](chapters/PDF_Chapters/Chapter_6_PDF.pdf)
 - [Chapter 7 — Pergamos / The Daughter of Edom](chapters/PDF_Chapters/Chapter_7_PDF.pdf)
-- [Chapter 8 — Thyatira / The Daughter of Zidon](chapters/009_Thyatira_Daughter_of_Zidon.md)
+- [Chapter 8 — Thyatira / The Daughter of Zidon](chapters/PDF_Chapters/Chapter_8_PDF.pdf)
 - [Chapter 9 — Sardis / The Daughters of Moab](chapters/010_Sardis_Daughters_of_Moab.md)
 - [Chapter 10 — Philadelphia / The Daughter of Egypt](chapters/011_Philadelphia_Daughter_of_Egypt.md)
 - [Chapter 11 — Laodicea / The Daughter of Tyre](chapters/012_Laodicea_Daughter_of_Tyre.md)
