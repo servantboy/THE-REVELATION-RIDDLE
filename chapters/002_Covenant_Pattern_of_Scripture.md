@@ -1,6 +1,5 @@
 
 CHAPTER 1 — THE COVENANT PATTERN OF SCRIPTURE
-(Revised & Strengthened — Final Version)
 The Bible is not merely a collection of laws, histories, and prophecies. It is the unfolding record of a relationship—a covenant—between God and His people. This covenant forms the foundation of Scripture. It establishes identity, responsibility, blessing, judgment, mercy, and restoration. Without understanding covenant, the structure of Scripture remains hidden.
 I. The Covenant: The Framework of God’s Relationship with His People
 A covenant in Scripture is more than a promise; it is a binding relationship initiated by God Himself. Through it, God reveals His faithfulness, His expectations, and His purposes.
