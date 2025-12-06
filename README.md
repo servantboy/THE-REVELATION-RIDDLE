@@ -7,34 +7,6 @@ This repository contains the full manuscript, individual chapter files, back-cov
 
 ## 📖 Table of Contents
 
-### Front Matter As PDF Files
-- [Preface](chapters/PDF_Chapters/Preface_PDF.pdf)
-- [Introduction](chapters/PDF_Chapters/Introduction_PDF.pdf)
-
-### Core Chapters As PDF Files
-- [Chapter 1 — The Covenant Pattern of Scripture](chapters/PDF_Chapters/Chapter_1_PDF.pdf)
-- [Chapter 2 — Two Mothers, Two Fathers, Two Covenants](chapters/PDF_Chapters/Chapter_2_PDF.pdf)
-- [Chapter 3 — The Forgotten Timeline](chapters/PDF_Chapters/Chapter_3_PDF.pdf)
-- [Chapter 4 — Overview / Introduction to the Seven Churches](chapters/PDF_Chapters/Chapter_4_PDF.pdf)
-- [Chapter 5 — Ephesus / The Daughter of Babylon](chapters/PDF_Chapters/Chapter_5_PDF.pdf)
-- [Chapter 6 — Smyrna / The Daughter of the Chaldeans](chapters/PDF_Chapters/Chapter_6_PDF.pdf)
-- [Chapter 7 — Pergamos / The Daughter of Edom](chapters/PDF_Chapters/Chapter_7_PDF.pdf)
-- [Chapter 8 — Thyatira / The Daughter of Zidon](chapters/PDF_Chapters/Chapter_8_PDF.pdf)
-- [Chapter 9 — Sardis / The Daughters of Moab](chapters/PDF_Chapters/Chapter_9_PDF.pdf)
-- [Chapter 10 — Philadelphia / The Daughter of Egypt](chapters/PDF_Chapters/Chapter_10_PDF.pdf)
-- [Chapter 11 — Laodicea / The Daughter of Tyre](chapters/PDF_Chapters/Chapter_11_PDF.pdf)
-- [Chapter 12 — Word Progression (The Light Theme)](chapters/PDF_Chapters/Chapter_12_PDF.pdf)
-- [Chapter 13 — The Seven Seals](chapters/PDF_Chapters/Chapter_13_PDF.pdf)
-- [Chapter 14 — The Rapture](chapters/PDF_Chapters/Chapter_14_PDF.pdf)
-- [Chapter 15 — The 144,000](chapters/PDF_Chapters/Chapter_15_PDF.pdf)
-- [Chapter 16 — The Revelation Riddle](chapters/PDF_Chapters/Chapter_16_PDF.pdf)
-
-### Additional Materials As PDF Files
-- [Back Cover Teaser](chapters/PDF_Chapters/Back_Cover_Teaser_PDF.pdf)  
-- [Full Manuscript (PDF)](chapters/PDF_Chapters/Manuscript_12-3-25_PDF.pdf) 
-- [License](chapters/PDF_Chapters/License_Agreement_PDF.pdf)
-
-
 ### Front Matter As MARKDOWN Files
 - [Preface](chapters/000_Preface.md)
 - [Introduction](chapters/001_Introduction.md)
